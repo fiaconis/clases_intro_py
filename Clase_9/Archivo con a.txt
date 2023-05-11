@@ -1,0 +1,6 @@
+Esta va a ser la primera linea del archivo con a 
+Esta va a ser la segunda linea del archivo con a 
+Esta va a ser la tercera linea del archivo con a 
+aca voy a escribir texto
+que no tiene nada de sentido
+salvo para mis alumnos/as
